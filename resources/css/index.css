@@ -1,0 +1,64 @@
+html{
+
+    background-color: black;
+    font-family: verdana, sans-serif;
+    text-align: center;
+    padding: 0;
+    margin: 0;
+}
+
+.container{
+
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.container h1{
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+    
+
+}
+
+.container a{
+
+    font-size: 16px;
+    color: aquamarine;
+    
+
+}
+
+.container h2{
+
+    color: white;
+    font-weight: 300;
+    font-size: 42px;
+
+}
+
+.container h3{
+    
+    font-size: 21px;
+    font-weight: normal;
+    color: gray;
+
+}
+
+.container img{
+
+    padding-bottom: 25px;
+
+}
+
+footer{
+    width: 100%;
+    color: gray;
+    text-align: right;
+
+}
